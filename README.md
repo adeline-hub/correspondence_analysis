@@ -1,0 +1,2 @@
+# correspondence_analysis
+correspondence_analysis for marketing
